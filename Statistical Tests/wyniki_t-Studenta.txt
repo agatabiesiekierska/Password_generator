@@ -1,0 +1,12 @@
+                      TEST T STUDENTA                       
+============================================================
+Sciezka do pliku:	 C:\Python - skrypty\W³asne Projekty\Testy Statystyczne - skoñczone\pomiary.txt
+Ilosc elementow w serii: 3
+Ufnosc:			 0.05
+Wartosc sredniej:	 0.07666666666666667
+Wartosc odchylenia standardowego:	 0.01457166
+Wartosc t_kryt.:	 4.3029
+Wartosc t:	 0.396214
+Czy t > t_kryt:	 False
+Wyniki nie roznia sie na poziomie statystycznie istotnym!
+============================================================
