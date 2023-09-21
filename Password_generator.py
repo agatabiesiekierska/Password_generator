@@ -35,8 +35,7 @@ class Password:
             char = random.choice(self.list_of_chars)
             if char not in psword: 
                 psword = psword + char
-                i+=1
-            else: continue     
+                i+=1   
         return psword
 
 unique_password = Password(12,True,True,False)
